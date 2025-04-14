@@ -34,6 +34,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RazanAlqasem&layout=compact
 )
 <br>
-<a href="https://komarev.com/ghpvc/?username=mohamedelkashef15&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=mohamedelkashef15&style=for-the-badge">
+<a href="https://komarev.com/ghpvc/?username=RazanAlqasem&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=RazanAlqasem&style=for-the-badge">
 </a>
