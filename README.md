@@ -19,7 +19,7 @@
   <a href="https://www.facebook.com/share/15pYYXX4tF/">
     <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat&logo=facebook&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/razan-alqasem-71259324a">
+  <a href="https://www.linkedin.com/in/razan-alqasem">
     <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&logoColor=white">
   </a>
   <a href="https://www.instagram.com/code.mode?igsh=MWoxYzBqZ3RlajNodQ==">
